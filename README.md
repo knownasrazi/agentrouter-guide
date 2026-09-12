@@ -110,9 +110,10 @@ console.log(r.choices[0].message.content);
 | [`docs/03-models-pricing.md`](./docs/03-models-pricing.md) | Catalog, pricing tiers, credit burn modeling |
 | [`docs/04-quickstart.md`](./docs/04-quickstart.md) | Registration → key → first call, step-by-step |
 | [`docs/05-api-reference.md`](./docs/05-api-reference.md) | Endpoints, auth, streaming, errors |
-| [`docs/06-integrations.md`](./docs/06-integrations.md) | Claude Code, Cursor, Cline, Roo, Copilot, Trae, LangChain, opencode… |
+| [`docs/06-integrations.md`](./docs/06-integrations.md) | Every client: Claude Code, Codex, OpenCode, Cursor, Cline, Roo, Kilo, Copilot, Trae, Craft… |
 | [`docs/07-examples.md`](./docs/07-examples.md) | Code review bot, benchmark harness, fallback pattern |
 | [`docs/08-troubleshooting.md`](./docs/08-troubleshooting.md) | 401/404/402, quota exhausted, GitHub auth issues |
+| [`docs/09-providers.md`](./docs/09-providers.md) | All providers (Anthropic/OpenAI/GLM/DeepSeek/Gemini/Qwen/Mistral) for Codex, OpenCode, every AI |
 
 ---
 
