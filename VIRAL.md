@@ -2,18 +2,18 @@
 
 > Copy-paste templates to make your AgentRouter guide go viral. All links use your OG referral `https://agentrouter.org/register?aff=v3aG` ($200 vs $100). No emojis — professional, hype-driven copy.
 
-## Hook — One Liner (use everywhere)
+## Hook — One Liner (use everywhere) — UPDATED for GPT-6 Astra (Sep 2026)
 
 ```
-FREE GPT-5.5 + Claude Opus 4.8 via ONE API — $200 OG credits, no card. One key, 30+ models. https://agentrouter.org/register?aff=v3aG | Full guide: https://github.com/knownasrazi/agentrouter-guide
+FREE GPT-6 Astra (NEW) + GPT-5.5 + Claude Opus 4.8 via ONE API — $200 OG credits, no card. 1.05M ctx, 99.9% ARC-AGI-3. https://agentrouter.org/register?aff=v3aG | Full guide: https://github.com/knownasrazi/agentrouter-guide
 ```
 
 Alt hooks:
 ```
-New GPT dropped — try it FREE via AgentRouter ($200 OG, no card). Codex + OpenCode + Claude Code all work. https://agentrouter.org/register?aff=v3aG
+GPT-6 Astra is here (Sep 3, 2026) — world's most intelligent, 100% ExploitBench. Try it FREE via AgentRouter ($200 OG, no card). Codex + OpenCode ready. https://agentrouter.org/register?aff=v3aG
 ```
 ```
-The free Astra for the new GPT era: AgentRouter = one gateway for every LLM. $200 free, no subscription. Guide + Codex/OpenCode configs: https://github.com/knownasrazi/agentrouter-guide
+New GPT-6 Astra dropped — 1.9x faster computer use, 1.05M context. Try FREE via AgentRouter ($200 OG). Guide covers every provider + Codex/OpenCode: https://github.com/knownasrazi/agentrouter-guide
 ```
 
 ---

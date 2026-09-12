@@ -9,7 +9,7 @@ This guide lists **every provider type available via AgentRouter** and shows **e
 | Provider | Example Models | Context | Pricing (Input/Output per 1M) | Gateway Base URL | Best For |
 |----------|---------------|---------|-------------------------------|------------------|----------|
 | **Anthropic — Claude** | `claude-opus-4-8`, `claude-opus-4-7`, `claude-opus-4-6`, `claude-sonnet-4-5-20250929`, `claude-haiku-4-5-20251001` | 200K – 1M | $2–$8 / $10–$40 | `https://co.agentrouter.org` (Anthropic, no `/v1`) or `https://agentrouter.org/v1` (OpenAI shape) | Agentic coding, long-horizon, reasoning |
-| **OpenAI — GPT** | `gpt-5.5`, `gpt-5`, `gpt-4o`, `gpt-4o-mini`, `gpt-3.5-turbo` | 128K – 1M | $0.15–$10 / $0.6–$30 | `https://co.agentrouter.org/v1` | General, vision, structured output |
+| **OpenAI — GPT (incl. Astra)** | `gpt-6-astra` (NEW 1.05M, $10/$50, reasoning.effort), `gpt-5.5`, `gpt-5`, `gpt-4o`, `gpt-4o-mini` | 128K – 1.05M | $0.15–$10 / $0.6–$50 | `https://co.agentrouter.org/v1` | Frontier — computer use, coding, science (Astra) |
 | **Zhipu AI — GLM** | `glm-5.2` (MoE flagship), `glm-5.1`, `glm-4.5`, `glm-4.5-air` (free) | 128K – 1M | $0–$3 / $0–$4.5 | `https://co.agentrouter.org/v1` | Cost-effective engineering, CN models |
 | **DeepSeek** | `deepseek-r1`, `deepseek-v2-lite`, `deepseek-coder-v2-lite` | 32K – 64K | $0.14–$0.55 / $0.28–$2.19 | `https://co.agentrouter.org/v1` | Math, STEM, cheap reasoning |
 | **Google — Gemini** | `gemini-2.0-pro`, `gemini-1.5-flash`, `gemini-3-pro` | 1M – 2M | $0.075–$7 / $0.3–$21 | `https://co.agentrouter.org/v1` | Long docs, multimodal, OCR |

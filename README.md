@@ -1,20 +1,20 @@
-# AgentRouter Guide — FREE GPT-5.5 + Claude Opus 4.8 via One API
+# AgentRouter Guide — FREE GPT-6 Astra + GPT-5.5 + Claude Opus 4.8 via One API
 
-> **FREE Astra-Grade Access: $200 OG credits, no credit card — one API key for GPT-5.5, Claude Opus 4.8, GLM 5.2, DeepSeek R1, Gemini 2.0 Pro + 30 models. OpenAI-compatible.**
-> **New GPT Model Free via AgentRouter — hype is real, credits are live. Claim via referral before pool resets.**
+> **FREE GPT-6 Astra (Sep 2026): $200 OG credits, no card — one API key for GPT-6 Astra (1.05M ctx), GPT-5.5, Claude Opus 4.8, GLM 5.2, DeepSeek R1, Gemini 2.0 Pro + 30 models. OpenAI-compatible.**
+> **New model `gpt-6-astra` live — 1.9x faster computer use, 99.9% ARC-AGI-3. Try FREE via my referral before pool resets.**
 
 [![AgentRouter](https://img.shields.io/badge/AgentRouter-agentrouter.org-blue)](https://agentrouter.org/register?aff=v3aG)
 [![FREE $200](https://img.shields.io/badge/FREE-$200_OG_credits-brightgreen)](https://agentrouter.org/register?aff=v3aG)
+[![GPT-6 Astra](https://img.shields.io/badge/GPT--6_Astra-FREE_via_AgentRouter-ff6b35)](https://agentrouter.org/register?aff=v3aG)
 [![Models](https://img.shields.io/badge/models-30%2B-green)](#models)
-[![GPT-5.5](https://img.shields.io/badge/GPT--5.5-Free_via_AgentRouter-ff6b35)](https://agentrouter.org/register?aff=v3aG)
 [![Claude Opus](https://img.shields.io/badge/Claude_Opus_4.8-Free_via_AgentRouter-7c3aed)](#models)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#license)
 
-> ### My Referral — OG Credits (Viral: New GPT Free)
-> **Register via my link to get OG ($200) credits instead of $100 — FREE access to new GPT + Claude:**
+> ### My Referral — OG Credits (Viral: GPT-6 Astra FREE)
+> **Register via my link to get OG ($200) credits instead of $100 — FREE access to GPT-6 Astra + GPT-5.5 + Claude:**
 > **`https://agentrouter.org/register?aff=v3aG`**
-> Standard = $100 | Referral = **$200 OG** — unlocks FREE GPT-5.5, Claude Opus 4.8, GLM, DeepSeek, Gemini. I get a referral bonus to keep this guide free.
-> **Hype drop:** AgentRouter is the free Astra for the new GPT era — one key, no subscription, no card. Pool resets early (SG time), claim now.
+> Standard = $100 | Referral = **$200 OG** — unlocks FREE GPT-6 Astra (1.05M ctx), GPT-5.5, Claude Opus 4.8, GLM, DeepSeek, Gemini. I get a referral bonus to keep this guide free.
+> **Hype drop:** GPT-6 Astra is live (Sep 3, 2026) — world's most intelligent, 99.9% ARC-AGI-3, 100% ExploitBench. Try it FREE via AgentRouter, one key, no card. Pool resets early (SG time), claim now. See [`docs/10-gpt6-astra.md`](./docs/10-gpt6-astra.md).
 
 <details>
 <summary><strong>Why this is going viral</strong> — click to expand</summary>
@@ -130,7 +130,8 @@ console.log(r.choices[0].message.content);
 | [`docs/07-examples.md`](./docs/07-examples.md) | Code review bot, benchmark harness, fallback pattern |
 | [`docs/08-troubleshooting.md`](./docs/08-troubleshooting.md) | 401/404/402, quota exhausted, GitHub auth issues |
 | [`docs/09-providers.md`](./docs/09-providers.md) | All providers (Anthropic/OpenAI/GLM/DeepSeek/Gemini/Qwen/Mistral) for Codex, OpenCode, every AI |
-| [`VIRAL.md`](./VIRAL.md) | Viral kit — tweet / Reddit / HN / Discord templates for free new GPT hype |
+| [`docs/10-gpt6-astra.md`](./docs/10-gpt6-astra.md) | **NEW: GPT-6 Astra (Sep 2026) — FREE via AgentRouter, 1.05M ctx, benchmarks, Codex/OpenCode configs** |
+| [`VIRAL.md`](./VIRAL.md) | Viral kit — tweet / Reddit / HN / Discord templates for GPT-6 Astra hype |
 
 ---
 
@@ -140,13 +141,14 @@ Portal highlights (`co.agentrouter.org/portal/models`):
 
 | Model | Provider | Context | Input / 1M | Output / 1M | Best for |
 |-------|----------|---------|------------|-------------|----------|
+| **GPT-6 Astra** | OpenAI | **1.05M** (922K in / 128K out) | $10 | $50 | **NEW Sep 2026 — best for computer use, coding, science** |
 | Claude Opus 4.8 | Anthropic | 1M | $8 | $40 | Deep agent, long-horizon tasks |
 | Claude Opus 4.7 | Anthropic | 1M | $8 | $40 | Async agents, large codebase |
 | Claude Opus 4.6 | Anthropic | 1M | $2 | $10 | Stable enterprise default |
 | GPT-5.5 | OpenAI | 1M (922K in / 128K out) | $4 | $8 | Reasoning, coding, multimodal |
 | GLM 5.2 | Zhipu | 1M | $3 | $4.5 | Cost-effective engineering |
 
-+ via gateway: `claude-sonnet-4-5-20250929`, `claude-haiku-4-5-*,` `deepseek-r1`, `gemini-2.0-pro`, `glm-4.5-air` (free), `qwen3-coder-480b`, etc. Full list → `docs/03-models-pricing.md`.
++ via gateway: `gpt-6-astra` (**NEW 99.9% ARC-AGI-3, 100% ExploitBench**), `claude-sonnet-4-5-20250929`, `claude-haiku-4-5-*,` `deepseek-r1`, `gemini-2.0-pro`, `glm-4.5-air` (free), `qwen3-coder-480b`, etc. Full list → `docs/03-models-pricing.md` and new [`docs/10-gpt6-astra.md`](./docs/10-gpt6-astra.md).
 
 ---
 
