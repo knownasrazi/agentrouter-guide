@@ -1,20 +1,36 @@
-# AgentRouter Guide
+# AgentRouter Guide — FREE GPT-5.5 + Claude Opus 4.8 via One API
 
-> **The definitive guide to `agentrouter.org` — the unified LLM API gateway.**
-> One API key, one base URL, 30+ models. OpenAI-compatible. Non-profit. $100–$200 free credits.
+> **FREE Astra-Grade Access: $200 OG credits, no credit card — one API key for GPT-5.5, Claude Opus 4.8, GLM 5.2, DeepSeek R1, Gemini 2.0 Pro + 30 models. OpenAI-compatible.**
+> **New GPT Model Free via AgentRouter — hype is real, credits are live. Claim via referral before pool resets.**
 
 [![AgentRouter](https://img.shields.io/badge/AgentRouter-agentrouter.org-blue)](https://agentrouter.org/register?aff=v3aG)
+[![FREE $200](https://img.shields.io/badge/FREE-$200_OG_credits-brightgreen)](https://agentrouter.org/register?aff=v3aG)
 [![Models](https://img.shields.io/badge/models-30%2B-green)](#models)
+[![GPT-5.5](https://img.shields.io/badge/GPT--5.5-Free_via_AgentRouter-ff6b35)](https://agentrouter.org/register?aff=v3aG)
+[![Claude Opus](https://img.shields.io/badge/Claude_Opus_4.8-Free_via_AgentRouter-7c3aed)](#models)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#license)
-[![Base URL](https://img.shields.io/badge/base%20URL-agentrouter.org%2Fv1-orange)](#quickstart)
 
-> ### My Referral — OG Credits
-> **Register via my link to get OG ($200) credits instead of $100:**
+> ### My Referral — OG Credits (Viral: New GPT Free)
+> **Register via my link to get OG ($200) credits instead of $100 — FREE access to new GPT + Claude:**
 > **`https://agentrouter.org/register?aff=v3aG`**
-> Standard signup = $100 | Referral signup = $200 — you get OG credits, I get a referral bonus to keep the guide free.
-> Thanks for supporting this guide.
+> Standard = $100 | Referral = **$200 OG** — unlocks FREE GPT-5.5, Claude Opus 4.8, GLM, DeepSeek, Gemini. I get a referral bonus to keep this guide free.
+> **Hype drop:** AgentRouter is the free Astra for the new GPT era — one key, no subscription, no card. Pool resets early (SG time), claim now.
+
+<details>
+<summary><strong>Why this is going viral</strong> — click to expand</summary>
+
+- **FREE new GPT model** without OpenAI Pro/Max — via AgentRouter gateway
+- **FREE Claude Opus 4.8** (1M context) without Anthropic Max — same key
+- **FREE GLM 4.5 Air, DeepSeek V2 Lite** — $0 forever for routing/autocomplete
+- **No credit card, GitHub OAuth only** — credits land instantly
+- **One key, every AI** — Codex, OpenCode, Claude Code, Cursor, Cline, Roo, Aider, LangChain all work
+
+> Built for the Astra hype cycle: new GPT drops -> everyone wants to try -> AgentRouter lets you try for $0.
+
+</details>
 
 **This repo is an independent, community-maintained guide.** Not affiliated with AgentRouter. Verified against live docs on `2026-09-12`.
+**Viral kit:** See [`VIRAL.md`](./VIRAL.md) for tweet / Reddit / HN / Discord copy-paste templates to hype the free new GPT launch.
 
 ---
 
@@ -114,6 +130,7 @@ console.log(r.choices[0].message.content);
 | [`docs/07-examples.md`](./docs/07-examples.md) | Code review bot, benchmark harness, fallback pattern |
 | [`docs/08-troubleshooting.md`](./docs/08-troubleshooting.md) | 401/404/402, quota exhausted, GitHub auth issues |
 | [`docs/09-providers.md`](./docs/09-providers.md) | All providers (Anthropic/OpenAI/GLM/DeepSeek/Gemini/Qwen/Mistral) for Codex, OpenCode, every AI |
+| [`VIRAL.md`](./VIRAL.md) | Viral kit — tweet / Reddit / HN / Discord templates for free new GPT hype |
 
 ---
 
